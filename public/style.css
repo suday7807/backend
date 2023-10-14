@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main{
+    height: 50%;
+    width: 50%;
+    background-color: aliceblue;
+    display: flex;
+   
+   
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+
+}
